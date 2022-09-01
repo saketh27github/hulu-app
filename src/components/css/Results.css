@@ -1,0 +1,10 @@
+.results{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: start;
+    justify-content: center;
+    /* padding: 20px; */
+    margin: 10px;
+    /* overflow-x: auto; */
+  
+}

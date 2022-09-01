@@ -1,0 +1,9 @@
+.ant-modal-content{
+    background-image: linear-gradient(to right, #051421, #042727);
+    color: #fff;
+
+}
+
+.ant-modal-close-x{
+    color: #fff;
+}
